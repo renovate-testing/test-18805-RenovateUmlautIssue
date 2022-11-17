@@ -1,7 +1,2 @@
 {
-  "extends": [
-    "config:base"
-  ],
-  "separateMinorPatch": true,
-  "prHourlyLimit": 10
 }
